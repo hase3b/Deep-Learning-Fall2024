@@ -9,4 +9,4 @@ This repository contains assignment submissions for the Deep Learning (96943) co
     * Report: Contains a detailed report outlining the methodology, results, and analysis of the project.
     * Submissions: Contains the models' predictions in the competition-specified format.
 
-This repo is still in progress...
+This repo is still in progress...need to upload A0, A1, and A2.
